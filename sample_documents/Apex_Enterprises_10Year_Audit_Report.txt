@@ -1,0 +1,47 @@
+INDEPENDENT AUDITOR'S STATUTORY REPORT
+================================================================================
+AUDITING FIRM: J.M. & Associates Chartered Accountants
+LEAD AUDITOR: CA Keerthiga Sri J.M., FCA (Membership Reg. No: FCA-084920)
+ADDRESS: 14/2 Anna Salai, Chennai, Tamil Nadu, India
+EMAIL: keerthigasrijm@gmail.com | PHONE: +91 98765 43210
+
+CLIENT DETAILS:
+CLIENT NAME: Apex Enterprises Pvt Ltd
+CORPORATE IDENTIFICATION NUMBER (CIN): U72200TN2014PTC095123
+CLIENT REGISTERED EMAIL: finance@apexenterprises.com
+NATURE OF BUSINESS: Industrial Manufacturing and Supply Chain Solutions
+
+AUDIT SCOPE & 10-YEAR FINANCIAL LEDGER (FY 2015 TO FY 2024):
+All figures are presented in INR Lakhs.
+
+Year | Income (Revenue) | Net Profit | Net Loss | Operating Expenses | Auditor Opinion
+--------------------------------------------------------------------------------
+2015 | 450.00           | 45.50      | 0.00     | 404.50             | Clean / Unqualified
+2016 | 520.00           | 58.20      | 0.00     | 461.80             | Clean / Unqualified
+2017 | 610.00           | 72.40      | 0.00     | 537.60             | Clean / Unqualified
+2018 | 695.00           | 84.00      | 0.00     | 611.00             | Clean / Unqualified
+2019 | 780.00           | 95.50      | 0.00     | 684.50             | Clean / Unqualified
+2020 | 710.00           | 0.00       | 32.50    | 742.50             | Adverse (Pandemic Loss)
+2021 | 830.00           | 65.00      | 0.00     | 765.00             | Clean / Unqualified
+2022 | 960.00           | 110.80     | 0.00     | 849.20             | Clean / Unqualified
+2023 | 1120.00          | 145.20     | 0.00     | 974.80             | Clean / Unqualified
+2024 | 1280.00          | 182.00     | 0.00     | 1098.00            | Clean / Unqualified
+
+10-YEAR FINANCIAL ANALYSIS & HIGHLIGHTS:
+1. Total Income over 10 years: 7,955.00 Lakhs.
+2. Total Net Profit over 10 years: 858.60 Lakhs.
+3. Total Net Loss over 10 years: 32.50 Lakhs (incurred solely during FY 2020 due to global lockdowns).
+4. Best performing financial year: FY 2024 with peak revenue of 1,280.00 Lakhs and peak net profit of 182.00 Lakhs.
+5. Lowest revenue financial year: FY 2015 with income of 450.00 Lakhs.
+6. 10-year average annual income: 795.50 Lakhs per annum.
+7. 10-year average annual net profit: 85.86 Lakhs per annum.
+
+AUDITOR CERTIFICATION:
+We have audited the financial records, profit and loss statements, and balance sheets of Apex Enterprises Pvt Ltd for the continuous 10-year period from 2015 through 2024. In our professional opinion, the financial statements present a true and fair view of the state of affairs of the company.
+
+Certified by:
+CA Keerthiga Sri J.M., FCA
+Senior Statutory Auditor
+J.M. & Associates Chartered Accountants
+Membership No: FCA-084920
+================================================================================

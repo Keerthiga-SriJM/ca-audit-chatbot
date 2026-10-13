@@ -1,0 +1,62 @@
+[
+  {
+    "id": "555290d6-0088-4abe-ac64-a567541a7fbb",
+    "name": "Client API Key",
+    "key": "ca_live_1204452ff5d2a8760acc35ee28a4acb7",
+    "prefix": "ca_live_1204...acb7",
+    "createdAt": "2026-10-13T05:49:11.538Z",
+    "lastUsedAt": "2026-10-13T05:50:39.320Z",
+    "usageCount": 7,
+    "isActive": true
+  },
+  {
+    "id": "c75225ab-e2f5-482a-9a8a-5d4cc8d53e3e",
+    "name": "Universal Master Application Key",
+    "key": "ca_live_541c806cb70ae18dab3721e1e6740c5b",
+    "prefix": "ca_live_541c...0c5b",
+    "createdAt": "2026-10-09T06:43:28.139Z",
+    "lastUsedAt": null,
+    "usageCount": 0,
+    "isActive": true
+  },
+  {
+    "id": "b342e52b-6152-479a-8787-7353c4383fd8",
+    "name": "app",
+    "key": "ca_live_61265cfc8ea8562b7fc18f5b060a107e",
+    "prefix": "ca_live_6126...107e",
+    "createdAt": "2026-10-08T11:52:49.799Z",
+    "lastUsedAt": null,
+    "usageCount": 0,
+    "isActive": true
+  },
+  {
+    "id": "2b966f73-8aa5-46f3-8e46-927c7457f8a2",
+    "name": "client APP",
+    "key": "ca_live_2b9a3e5be189fe8c6dbc183167d78eb7",
+    "prefix": "ca_live_2b9a...8eb7",
+    "createdAt": "2026-10-08T11:22:17.823Z",
+    "lastUsedAt": null,
+    "usageCount": 0,
+    "isActive": true
+  },
+  {
+    "id": "d4228391-f963-4d73-9371-cc39f0f02037",
+    "name": "Client API Key",
+    "key": "ca_live_bb816a31e21cc2c6669a827178b6202b",
+    "prefix": "ca_live_bb81...202b",
+    "createdAt": "2026-10-08T10:18:49.019Z",
+    "lastUsedAt": "2026-10-08T10:19:26.870Z",
+    "usageCount": 1,
+    "isActive": false
+  },
+  {
+    "id": "caa34b05-01fd-4d2d-b455-34146c916136",
+    "name": "Default Master Key",
+    "key": "ca_live_86465e0d1cde715e979580af13a86bd8",
+    "prefix": "ca_live_8646...6bd8",
+    "createdAt": "2026-10-08T10:18:18.411Z",
+    "lastUsedAt": "2026-10-09T04:34:44.375Z",
+    "usageCount": 1,
+    "isActive": true
+  }
+]
