@@ -2,5 +2,9 @@ node_modules
 .next
 .env
 .env.local
+.env*.local
+credentials.json
+.api-keys.json
+.vercel
 next-env.d.ts
 *.tsbuildinfo

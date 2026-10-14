@@ -6,7 +6,7 @@ import { apiResponse, apiError, handleCorsPreflight } from "@/lib/cors";
 import { verifyApiKeyRequest } from "@/lib/api-keys";
 
 export const runtime = "nodejs";
-export const maxDuration = 300;
+export const maxDuration = 60;
 
 type ChatMessage = { role: "user" | "assistant"; content: string };
 
